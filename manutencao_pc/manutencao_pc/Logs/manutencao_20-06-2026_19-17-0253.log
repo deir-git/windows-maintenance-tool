@@ -3,72 +3,63 @@ Limpeza - inicio 19:17:32,65
 Limpeza - fim 19:17:39,22 
 Rede - inicio 19:25:39,60 
 
-Configura‡Æo de IP do Windows
+Configuraâ€¡Ã†o de IP do Windows
 
-Nenhuma opera‡Æo pode ser executada em ConexÆo de Rede Bluetooth enquanto a 
-m¡dia estiver desconectada.
-
-Adaptador Ethernet Ethernet:
-
-   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
-   Endere‡o IPv6 . . . . . . . . . . : 2804:4854:3:10a3:3467:7c02:2e09:af6
-   Endere‡o IPv6 . . . . . . . . . . : 2804:4854:3:10a3:7804:e3d2:29c8:3
-   Endere‡o IPv6 Tempor rio. . . . . . . . : 2804:4854:3:10a3:114:31a1:6315:61b7
-   Endere‡o IPv6 de link local . . . . . . . . : fe80::75d9:1544:a0d1:4c75%4
-   Gateway PadrÆo. . . . . . . . . . . . . . . : fe80::7a04:e3ff:fed2:29c8%4
-
-Adaptador Ethernet ConexÆo de Rede Bluetooth:
-
-   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
-   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
-
-Configura‡Æo de IP do Windows
-
-Nenhuma opera‡Æo pode ser executada em ConexÆo de Rede Bluetooth enquanto a 
-m¡dia estiver desconectada.
+Nenhuma operaâ€¡Ã†o pode ser executada em ConexÃ†o de Rede Bluetooth enquanto a 
+mÂ¡dia estiver desconectada.
 
 Adaptador Ethernet Ethernet:
 
-   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
-   Endere‡o IPv6 . . . . . . . . . . : 2804:4854:3:10a3:3467:7c02:2e09:af6
-   Endere‡o IPv6 . . . . . . . . . . : 2804:4854:3:10a3:7804:e3d2:29c8:3
-   Endere‡o IPv6 Tempor rio. . . . . . . . : 2804:4854:3:10a3:114:31a1:6315:61b7
-   Endere‡o IPv6 de link local . . . . . . . . : fe80::75d9:1544:a0d1:4c75%4
-   Endere‡o IPv4. . . . . . . .  . . . . . . . : 192.168.3.8
-   M scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
-   Gateway PadrÆo. . . . . . . . . . . . . . . : fe80::7a04:e3ff:fed2:29c8%4
-                                                 192.168.3.1
+   Sufixo DNS especÂ¡fico de conexÃ†o. . . . . . : 
+   Endereâ€¡o IPv6 . . . . . . . . . . : 2804:4854:3:10a3:3467:7c02:2e09:af6
+   Endereâ€¡o IPv6 . . . . . . . . . . : 2804:4854:3:10a3:7804:e3d2:29c8:3
+   Endereâ€¡o IPv6 TemporÂ rio. . . . . . . . : 2804:4854:3:10a3:114:31a1:6315:61b7
+   Endereâ€¡o IPv6 de link local . . . . . . . . : fe80::75d9:1544:a0d1:4c75%4
+   Gateway PadrÃ†o. . . . . . . . . . . . . . . : fe80::7a04:e3ff:fed2:29c8%4
 
-Adaptador Ethernet ConexÆo de Rede Bluetooth:
+Adaptador Ethernet ConexÃ†o de Rede Bluetooth:
 
-   Estado da m¡dia. . . . . . . . . . . . . .  : m¡dia desconectada
-   Sufixo DNS espec¡fico de conexÆo. . . . . . : 
+   Estado da mÂ¡dia. . . . . . . . . . . . . .  : mÂ¡dia desconectada
+   Sufixo DNS especÂ¡fico de conexÃ†o. . . . . . : 
 
-Configura‡Æo de IP do Windows
+Configuraâ€¡Ã†o de IP do Windows
 
-Libera‡Æo do Cache do DNS Resolver bem-sucedida.
+Nenhuma operaâ€¡Ã†o pode ser executada em ConexÃ†o de Rede Bluetooth enquanto a 
+mÂ¡dia estiver desconectada.
 
-CatÃ¡logo Winsock redefinido com Ãªxito.
-Reinicie o computador para concluir a redefiniÃ§Ã£o.
+Adaptador Ethernet Ethernet:
+
+  
+Adaptador Ethernet ConexÃ†o de Rede Bluetooth:
+
+   Estado da mÂ¡dia. . . . . . . . . . . . . .  : mÂ¡dia desconectada
+   Sufixo DNS especÂ¡fico de conexÃ†o. . . . . . : 
+
+Configuraâ€¡Ã†o de IP do Windows
+
+Liberaâ€¡Ã†o do Cache do DNS Resolver bem-sucedida.
+
+CatÃƒÂ¡logo Winsock redefinido com ÃƒÂªxito.
+Reinicie o computador para concluir a redefiniÃƒÂ§ÃƒÂ£o.
 
 Redefinindo Encaminhamento de Compartimento, OK!
 Redefinindo Compartimento, OK!
 Redefinindo Protocolo de Controle, OK!
-Redefinindo SolicitaÃ§Ã£o de SequÃªncia de Eco, OK!
+Redefinindo SolicitaÃƒÂ§ÃƒÂ£o de SequÃƒÂªncia de Eco, OK!
 Redefinindo Global, OK!
 Redefinindo Interface, OK!
-Redefinindo EndereÃ§o Anycast, OK!
-Redefinindo EndereÃ§o multicast, OK!
-Redefinindo EndereÃ§o Unicast, OK!
+Redefinindo EndereÃƒÂ§o Anycast, OK!
+Redefinindo EndereÃƒÂ§o multicast, OK!
+Redefinindo EndereÃƒÂ§o Unicast, OK!
 Redefinindo Vizinho, OK!
 Redefinindo Caminho, OK!
 Redefinindo Potencial, OK!
-Redefinindo PolÃ­tica de Prefixo, OK!
+Redefinindo PolÃƒÂ­tica de Prefixo, OK!
 Redefinindo Vizinho de Proxy, OK!
 Redefinindo Rota, OK!
 Redefinindo Prefixo do Site, OK!
 Redefinindo Subinterface, OK!
-Redefinindo PadrÃ£o de AtivaÃ§Ã£o, OK!
+Redefinindo PadrÃƒÂ£o de AtivaÃƒÂ§ÃƒÂ£o, OK!
 Redefinindo Resolver Vizinho, OK!
 Redefinindo , OK!
 Redefinindo , OK!
@@ -87,6 +78,6 @@ Redefinindo , OK!
 Redefinindo , OK!
 Redefinindo , OK!
 Redefinindo , OK!
-Reinicie o computador para concluir esta aÃ§Ã£o.
+Reinicie o computador para concluir esta aÃƒÂ§ÃƒÂ£o.
 
 Rede - fim 19:25:43,19 
