@@ -1,0 +1,20 @@
+===============================================================
+  RELATORIO DE MANUTENCAO DE COMPUTADOR
+===============================================================
+Data/Hora: 20/06/2026  9:03:29,81
+Computador: DESKTOP-MPGJBTE
+Usuario: PC
+
+----------------- RESUMO DO SISTEMA -----------------
+ 
+Espaco em disco (unidades): 
+
+----------------- LIMPEZA DE TEMPORARIOS -----------------
+
+----------------- LOG TECNICO COMPLETO -----------------
+Veja o arquivo de log com todos os detalhes em:
+C:\Users\PC\Desktop\manutencao_pc\manutencao_pc\Logs\manutencao_20-06-2026__9-02-0384.log
+
+===============================================================
+  Fim do relatorio
+===============================================================

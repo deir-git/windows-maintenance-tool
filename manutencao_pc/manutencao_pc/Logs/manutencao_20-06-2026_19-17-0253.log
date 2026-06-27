@@ -1,0 +1,92 @@
+Sessao de manutencao iniciada em 20/06/2026 19:17:02,53 
+Limpeza - inicio 19:17:32,65 
+Limpeza - fim 19:17:39,22 
+Rede - inicio 19:25:39,60 
+
+Configuraá∆o de IP do Windows
+
+Nenhuma operaá∆o pode ser executada em Conex∆o de Rede Bluetooth enquanto a 
+m°dia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 . . . . . . . . . . : 2804:4854:3:10a3:3467:7c02:2e09:af6
+   Endereáo IPv6 . . . . . . . . . . : 2804:4854:3:10a3:7804:e3d2:29c8:3
+   Endereáo IPv6 Tempor†rio. . . . . . . . : 2804:4854:3:10a3:114:31a1:6315:61b7
+   Endereáo IPv6 de link local . . . . . . . . : fe80::75d9:1544:a0d1:4c75%4
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::7a04:e3ff:fed2:29c8%4
+
+Adaptador Ethernet Conex∆o de Rede Bluetooth:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Configuraá∆o de IP do Windows
+
+Nenhuma operaá∆o pode ser executada em Conex∆o de Rede Bluetooth enquanto a 
+m°dia estiver desconectada.
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 . . . . . . . . . . : 2804:4854:3:10a3:3467:7c02:2e09:af6
+   Endereáo IPv6 . . . . . . . . . . : 2804:4854:3:10a3:7804:e3d2:29c8:3
+   Endereáo IPv6 Tempor†rio. . . . . . . . : 2804:4854:3:10a3:114:31a1:6315:61b7
+   Endereáo IPv6 de link local . . . . . . . . : fe80::75d9:1544:a0d1:4c75%4
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.3.8
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::7a04:e3ff:fed2:29c8%4
+                                                 192.168.3.1
+
+Adaptador Ethernet Conex∆o de Rede Bluetooth:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Configuraá∆o de IP do Windows
+
+Liberaá∆o do Cache do DNS Resolver bem-sucedida.
+
+Cat√°logo Winsock redefinido com √™xito.
+Reinicie o computador para concluir a redefini√ß√£o.
+
+Redefinindo Encaminhamento de Compartimento, OK!
+Redefinindo Compartimento, OK!
+Redefinindo Protocolo de Controle, OK!
+Redefinindo Solicita√ß√£o de Sequ√™ncia de Eco, OK!
+Redefinindo Global, OK!
+Redefinindo Interface, OK!
+Redefinindo Endere√ßo Anycast, OK!
+Redefinindo Endere√ßo multicast, OK!
+Redefinindo Endere√ßo Unicast, OK!
+Redefinindo Vizinho, OK!
+Redefinindo Caminho, OK!
+Redefinindo Potencial, OK!
+Redefinindo Pol√≠tica de Prefixo, OK!
+Redefinindo Vizinho de Proxy, OK!
+Redefinindo Rota, OK!
+Redefinindo Prefixo do Site, OK!
+Redefinindo Subinterface, OK!
+Redefinindo Padr√£o de Ativa√ß√£o, OK!
+Redefinindo Resolver Vizinho, OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Falha ao redefinir .
+Acesso negado.
+
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Redefinindo , OK!
+Reinicie o computador para concluir esta a√ß√£o.
+
+Rede - fim 19:25:43,19 
